@@ -1,0 +1,5 @@
+spec:
+  ports:
+    - port: 11222
+      targetPort: 11222
+  type: LoadBalancer
