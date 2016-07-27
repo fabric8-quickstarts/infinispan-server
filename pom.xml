@@ -42,7 +42,7 @@
   </dependencyManagement>
 
   <build>
-    <finalName>wildfly-fabric8</finalName>
+    <finalName>infinispan-fabric8</finalName>
     <plugins>
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
