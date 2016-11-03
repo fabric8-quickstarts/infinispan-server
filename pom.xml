@@ -16,7 +16,7 @@
 
     <!-- dependency versions -->
     <camel.version>2.18.0</camel.version>
-    <fabric8.version>2.2.170</fabric8.version>
+    <fabric8.version>2.2.175</fabric8.version>
     <fabric8-ipaas.version>2.2.159</fabric8-ipaas.version>
     <spring-boot.version>1.4.1.RELEASE</spring-boot.version>
     <infinispan.docker.image.version>8.2.3.Final</infinispan.docker.image.version>
