@@ -1,5 +1,12 @@
+metadata:
+  labels:
+    expose: true
+
+metadata:
+    annotations:
+      api.service.kubernetes.io/path: /rest
+
 spec:
   ports:
-    - port: 11222
-      targetPort: 11222
-  type: LoadBalancer
+    - port: 80
+      targetPort: 8080
