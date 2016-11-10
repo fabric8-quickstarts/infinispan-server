@@ -29,15 +29,6 @@ Then find the name of the pod that runs this quickstart, and output the logs fro
 You can also use the fabric8 [web console](http://fabric8.io/guide/console.html) to manage the
 running pods, and view logs and much more.
 
-### Access services using a web browser
-
-When the application is running, you can use a web browser to access the HTTP service. Assuming that you
-have a [Vagrant setup](http://fabric8.io/guide/getStarted/vagrant.html) you can access the application with
-`http://war-wildfly-default.vagrant.f8/`.
-
-Notice: As it depends on your OpenShift setup, the hostname (route) might vary. Verify with `oc get routes` which
-hostname is valid for you.
-
 ### More details
 
 You can find more details about running this [quickstart](http://fabric8.io/guide/quickstarts/running.html) on the website. This also includes instructions how to change the Docker image user and registry.
