@@ -1,12 +1,4 @@
-metadata:
-  labels:
-    expose: true
-
-metadata:
-    annotations:
-      api.service.kubernetes.io/path: /rest
-
 spec:
   ports:
-    - port: 80
-      targetPort: 8080
+    - port: 11222
+      targetPort: 11222

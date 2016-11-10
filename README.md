@@ -2,6 +2,8 @@
 
 This quickstart exposes a simple Infinspan server in standalone mode.
 
+This example is related to the `infinispan-client` quickstart which is the client side. 
+
 ### Building
 
 The example can be built with
