@@ -61,7 +61,7 @@
               <build>
                 <from>jboss/infinispan-server:${infinispan.docker.image.version}</from>
                 <assembly>
-                  <basedir>/deployments</basedir>
+                  <targetDir>/deployments</targetDir>
                   <descriptorRef>artifact</descriptorRef>
                 </assembly>
               </build>
