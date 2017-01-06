@@ -15,12 +15,12 @@
     <failOnMissingWebXml>false</failOnMissingWebXml>
 
     <!-- dependency versions -->
-    <fabric8.version>2.2.190</fabric8.version>
+    <fabric8.version>2.2.192</fabric8.version>
     <infinispan.docker.image.version>8.2.5.Final</infinispan.docker.image.version>
 
     <!-- maven plugin versions -->
     <exec-maven-plugin.version>1.5.0</exec-maven-plugin.version>
-    <fabric8.maven.plugin.version>3.2.12</fabric8.maven.plugin.version>
+    <fabric8.maven.plugin.version>3.2.13</fabric8.maven.plugin.version>
     <maven-compiler-plugin.version>3.6.0</maven-compiler-plugin.version>
     <maven-shade-plugin.version>2.3</maven-shade-plugin.version>
     <maven-surefire-plugin.version>2.19.1</maven-surefire-plugin.version>
